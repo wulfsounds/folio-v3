@@ -1,0 +1,26 @@
+{
+  "name": "folio-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulfsounds/folio-v3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wulfsounds/folio-v3/issues"
+  },
+  "homepage": "https://github.com/wulfsounds/folio-v3#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
