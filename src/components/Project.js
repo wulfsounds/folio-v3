@@ -77,6 +77,19 @@ function Project() {
 					</p>
 				</div>
 			</section>
+			<section>
+				<img
+					id=""
+					src=""
+					alt=""
+				/>
+				<div className="detail col-12">
+					<h3 className="d-title4">just another text editor</h3>
+					<p className="para4">
+					JATE is a progressive web-based application (PWA) that utilizes IndexedDB for storage and uses a data persistence technique that allows the program to run offline.
+					</p>
+				</div>
+			</section>
 		</>
 	);
 }
