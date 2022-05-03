@@ -12,7 +12,7 @@ body {
     color: #F2EBDF;
 }
 
-header {
+.header {
     display: flex;
     justify-content: flex-end;
 }
@@ -21,10 +21,10 @@ li {
     list-style-type:none;
 }
 
-nav {
+.nav {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     padding: 10px;
 }
 
@@ -71,7 +71,7 @@ nav {
 
 ul {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     position: relative;
     font-family: lust-display, serif;
     font-weight: 400;

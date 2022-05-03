@@ -1,42 +1,15 @@
-import contact from "../images/contact.png"
+import React from "react";
+import Header from "../components/Header";
+import Nav from "../components/Nav";
+import Project from "../components/Project";
+import Footer from "../components/Footer";
+import contact from "../images/contact.png";
 
 const HomePage = (props) => {
 	return (
 		<>
-			<header>
-				<nav>
-					<ul className="nav justify-content-end navi">
-						<li className="nav-item">
-							<a className="nav-link a" href="/folio">
-								folio
-							</a>
-						</li>
-						<li className="nav-item a">
-							<a className="nav-link active" href="/about">
-								about
-							</a>
-						</li>
-						<li className="nav-item a">
-							<a
-								className="nav-link"
-								href="https://github.com/wulfsounds"
-								target="_blank"
-								rel="noreferrer"
-							>
-								github
-							</a>
-						</li>
-						<li className="nav-item">
-							<a
-								className="nav-link a"
-								href="mailto:devinlwulf@gmail.com"
-							>
-								email
-							</a>
-						</li>
-					</ul>
-				</nav>
-			</header>
+			<Header />
+			<Nav />
 			<main>
 				<section className="container col-12">
 					<div>
@@ -61,13 +34,10 @@ const HomePage = (props) => {
 							feel something, especially to do something creative.
 						</p>
 					</div>
-					<img
-						id="contact"
-						src={contact}
-						alt="contact-img"
-					/>
+					<img id="contact" src={contact} alt="contact-img" />
 				</section>
 			</main>
+			<Footer />
 		</>
 	);
 };
