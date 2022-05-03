@@ -12,6 +12,10 @@ body {
     color: #F2EBDF;
 }
 
+.page-title {
+    font-size: 45px;
+}
+
 .header {
     display: flex;
     justify-content: flex-end;

@@ -18,7 +18,7 @@ const AboutPage = (props) => {
 							src={profile}
 							alt="profile picture"
 						/>
-						<h3>hello</h3>
+						<h3 className="hello">hello</h3>
 						<div className="bio">
 							<p className="about-me">
 								<strong>
