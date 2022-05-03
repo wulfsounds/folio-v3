@@ -24,6 +24,7 @@ function Project() {
 						Procreate.
 					</p>
 					{/* <!-- Icon links to GitHub and Heroku --> */}
+                    
 				</div>
 			</section>
 			<section>

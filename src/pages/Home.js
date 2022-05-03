@@ -4,6 +4,8 @@ import Nav from "../components/Nav";
 import Project from "../components/Project";
 import Footer from "../components/Footer";
 import contact from "../images/contact.png";
+import '../../src/main2.css'
+
 
 const HomePage = (props) => {
 	return (

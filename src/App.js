@@ -6,15 +6,9 @@ import ContactPage from "./pages/Contact";
 import FolioPage from "./pages/Folio";
 import NotFoundPage from "./pages/NotFound";
 
-import '../src/main2.css'
-import Header from "./components/Header";
-import Nav from './components/Nav'
-
 function App() {
   return (
     <>
-    {/* <Header className="header" />
-    <Nav className="nav" /> */}
     <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />

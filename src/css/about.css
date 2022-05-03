@@ -1,16 +1,6 @@
-html {
-    height: 100vh;
-}
-
-body {
-    background-image: url("../src/images/About.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
-
 .profile-pic {
     width: 400px;
-    margin-top: 47em;
+    margin-top: 2em;
     margin-left: 9em;
 }
 
@@ -18,16 +8,6 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.navi {
-    margin-right: 50px;
-}
-
-.container {
-    margin-top: -4em;
-    margin-bottom: 10em;
-    margin-left: 5em;
 }
 
 h3 {
@@ -45,7 +25,7 @@ h3 {
     margin-top: 10em;
 }
 
-p {
+.about-me {
     font-size: 22px;
     width: 600px;
     margin-top: -28.5em;
@@ -55,4 +35,8 @@ p {
 .bio {
     margin-top: 10em;
     margin-right: 10em;
+}
+
+img {
+    max-width: 100%;
 }
