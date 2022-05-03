@@ -25,6 +25,7 @@ const AboutPage = (props) => {
 									Stack Web & Graphic Designer in Dallas,
 									Texas.
 								</strong>
+								<br></br>
 								Hello, I’m Dev. I’m currently attending SMU Code
 								Bootcamp to develop skills in MERN and mySQL.
 								I’ve always had a passion for graphic and web
