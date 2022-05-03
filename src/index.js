@@ -1,3 +1,4 @@
+import '../src/main2.css'
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

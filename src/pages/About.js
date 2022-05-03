@@ -1,21 +1,43 @@
 import { useState, useEffect } from "react";
+import '../../src/about.css'
 
 const AboutPage = (props) => {
 	return (
 		<>
-			<nav>
-				<ul>
-					<li>
-						<a href="/">Home</a>
-					</li>
-					<li>
-						<a href="/folio">Folio</a>
-					</li>
-					<li>
-						<a href="/contact">Contact</a>
-					</li>
-				</ul>
-			</nav>
+			<header>
+				<nav>
+					<ul className="nav justify-content-end navi">
+						<li className="nav-item">
+							<a className="nav-link a" href="/folio">
+								folio
+							</a>
+						</li>
+						<li className="nav-item a">
+							<a className="nav-link active" href="/about">
+								about
+							</a>
+						</li>
+						<li className="nav-item a">
+							<a
+								className="nav-link"
+								href="https://github.com/wulfsounds"
+								target="_blank"
+								rel="noreferrer"
+							>
+								github
+							</a>
+						</li>
+						<li className="nav-item">
+							<a
+								className="nav-link a"
+								href="mailto:devinlwulf@gmail.com"
+							>
+								email
+							</a>
+						</li>
+					</ul>
+				</nav>
+			</header>
 		</>
 	);
 };

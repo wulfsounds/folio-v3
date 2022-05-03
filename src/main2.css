@@ -1,3 +1,8 @@
+* {
+	margin:0;
+	padding:0;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -7,9 +12,20 @@ body {
     color: #F2EBDF;
 }
 
-.header {
+header {
     display: flex;
     justify-content: flex-end;
+}
+
+li {
+    list-style-type:none;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
 }
 
 #contact {
@@ -54,7 +70,8 @@ body {
 }
 
 ul {
-    display: inline;
+    display: flex;
+    justify-content: space-between;
     position: relative;
     font-family: lust-display, serif;
     font-weight: 400;
@@ -66,6 +83,14 @@ ul {
 
 a {
     color: #F2EBDF;
+    text-decoration: none;
+    list-style-type:none;
+    padding-left: 25px;
+}
+
+a:hover {
+    color: #8B2729;
+    font-weight: 600;
 }
 
 #thumbnail-1 {
