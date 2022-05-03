@@ -18,13 +18,18 @@ h3 {
     color: #FFF;
     margin-top: -0.75em;
     margin-left: 1.02em;
-    width: 300px;
+    width: 630px;
+    line-height: 75px;
+}
+
+.jate-header{
+    margin-top: 150px;
 }
 
 .about-me {
     font-size: 22px;
     width: 600px;
-    margin-top: -28.5em;
+    margin-top: -22.5em;
     margin-left: 29em;
 }
 
@@ -35,4 +40,13 @@ h3 {
 
 img {
     max-width: 100%;
+}
+
+.about-box {
+    margin-top: 130px;
+    margin-bottom: 230px;
+}
+
+.about-foot {
+    margin-top: 30px;
 }

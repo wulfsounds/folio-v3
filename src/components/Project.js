@@ -3,18 +3,27 @@ import thyme from '../images/Mask_Group_1.png'
 import junkfood from '../images/junkfood-promo@2x.png'
 import daytripper from '../images/daytripper-logo@2x.png'
 import weather from '../images/weather-logo@2x.png'
+import bootstrap from "bootstrap";
 
 function Project() {
 	return (
 		<>
 			<section id="folio">
+			<div className="view overlay">
 				<img
 					id="thumbnail-1"
+					className="img-fluid"
 					src={thyme}
 					alt="thyme"
 				/>
+				<div className="mask rgba-red-strong">
+					<p className="hover-item">
+						Test.
+					</p>
+				</div>
+				</div>
 				<div className="detail col-12">
-					<h3 className="d-title">thyme</h3>
+					<h3 className="d-title thyme-header">thyme</h3>
 					<p>
 						Thyme is a conceptual application designed with Bootcamp
 						mates, Caitlin Stevenson, Neema Velasco, and Emily
@@ -84,8 +93,8 @@ function Project() {
 					alt=""
 				/>
 				<div className="detail col-12">
-					<h3 className="d-title4">just another text editor</h3>
-					<p className="para4">
+					<h3 className="d-title5 jate-header">just another text editor</h3>
+					<p className="para5">
 					JATE is a progressive web-based application (PWA) that utilizes IndexedDB for storage and uses a data persistence technique that allows the program to run offline.
 					</p>
 				</div>

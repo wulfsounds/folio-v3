@@ -12,7 +12,7 @@ const AboutPage = (props) => {
 				<Header />
 				<Nav />
 				<main>
-					<div className="container">
+					<div className="container about-box">
 						<img
 							className="profile-pic"
 							src={profile}
@@ -41,7 +41,9 @@ const AboutPage = (props) => {
 						</div>
 					</div>
 				</main>
-				<Footer />
+				<footer className="about-foot home-footer">
+        ©2022 Dev Wulf for SMU Bootcamp | <span><a href="https://github.com/wulfsounds/portfolio">Repo this on GitHub.</a></span>
+      </footer>
 		</>
 	);
 };
