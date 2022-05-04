@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+# Wulfsounds Folio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+## Hello!
 
-In the project directory, you can run:
+![dev wulf banner](./src/images/970%C3%97250-still-banner.png)
 
-### `npm start`
+Thanks for checking out my portfolio! I just recently cooked this up using React and happy to share it. I have a passion to build really cool looking websites and currently a student to a full-stack web programming bootcamp. Feel free to reach out for questions! 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Projects](#projects)
+- [Technology](#technology)
+- [License](#license)
+- [Contact](#contact)
 
-### `npm test`
+## Projects
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Thyme - Group 2 Project
 
-### `npm run build`
+![Thyme](./src/images/Mask_Group_1.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Thyme Repo](https://github.com/wulfsounds/g2p-thyme)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [Devin Wulf](https://github.com/wulfsounds)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [Caitlin Stevenson](https://github.com/inna-arabejo)
 
-### `npm run eject`
+* [Emily Vazquez](https://github.com/Emily-MVaz)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* [Neema Velasco](https://github.com/nvsco-10)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Junkfood - Group 3 Project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Junkfood](./src/images/junkfood-promo%402x.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[Junkfood Repo](https://github.com/wulfsounds/g3p-junkfood)
 
-## Learn More
+* [Devin Wulf](https://github.com/wulfsounds)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* [Inna Arabejo](https://github.com/inna-arabejo)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [Victor Kennedy](https://github.com/Victorini1)
 
-### Code Splitting
+### Daytripper
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Daytripper](./src/images/daytripper-logo%402x.png)
 
-### Analyzing the Bundle Size
+[Daytripper Repo](https://github.com/wulfsounds/daytripper)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* Additional Assistance in JavaScript:
+   - [Eugene Ahn](https://github.com/eugene125)
+   - [Kelly Jefferies](https://github.com/ksjefferies)
+   - Daniel Norred
 
-### Making a Progressive Web App
+### Weather
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Weather](./src/images/weather-logo%402x.png)
 
-### Advanced Configuration
+[Weather Repo](https://github.com/wulfsounds/weather-dashboard)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Just Another Text Editor
 
-### Deployment
+![JATE](./src/images/jate-frame.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[Just Another Text Editor Repo](https://github.com/wulfsounds/pwa-text-editor)
 
-### `npm run build` fails to minify
+### Employee Tracker
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Employee Tracker](./src/images/Employee-frame.png)
+
+[Employee Tracker](https://github.com/wulfsounds/sql-employee-tracker)
+
+## Technology
+
+
+# My Tech Stack
+
+## Languages
+
+![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Technology
+
+### Database
+![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### Design
+![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![adobe Xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+### Additional Technologies
+Procreate, Insomnia
