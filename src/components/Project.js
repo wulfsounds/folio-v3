@@ -3,25 +3,20 @@ import thyme from '../images/Mask_Group_1.png'
 import junkfood from '../images/junkfood-promo@2x.png'
 import daytripper from '../images/daytripper-logo@2x.png'
 import weather from '../images/weather-logo@2x.png'
+import employee from '../images/Employee-frame.png'
+import jate from '../images/jate-frame.png'
 import bootstrap from "bootstrap";
 
 function Project() {
 	return (
 		<>
 			<section id="folio">
-			<div className="view overlay">
 				<img
 					id="thumbnail-1"
 					className="img-fluid"
 					src={thyme}
 					alt="thyme"
 				/>
-				<div className="mask rgba-red-strong">
-					<p className="hover-item">
-						Test.
-					</p>
-				</div>
-				</div>
 				<div className="detail col-12">
 					<h3 className="d-title thyme-header">thyme</h3>
 					<p>
@@ -88,14 +83,27 @@ function Project() {
 			</section>
 			<section>
 				<img
-					id=""
-					src=""
-					alt=""
+					id="thumbnail-5"
+					src={ jate }
+					alt="jate frame pic"
 				/>
 				<div className="detail col-12">
 					<h3 className="d-title5 jate-header">just another text editor</h3>
 					<p className="para5">
 					JATE is a progressive web-based application (PWA) that utilizes IndexedDB for storage and uses a data persistence technique that allows the program to run offline.
+					</p>
+				</div>
+			</section>
+			<section>
+				<img
+					id="thumbnail-6"
+					src={ employee }
+					alt="employee tracker pic"
+				/>
+				<div className="detail col-12">
+					<h3 className="d-title6">employee tracker</h3>
+					<p className="para6">
+					The Employee Tracker is a command-line application built with a back-end, Express.js server using a content management system (CMS) interface. The application stores basic employee information in a SQL database using a CRUD api.
 					</p>
 				</div>
 			</section>

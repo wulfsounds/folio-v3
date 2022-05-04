@@ -134,14 +134,32 @@ a:hover {
     border-radius: 10%;
 }
 
+#thumbnail-5 {
+    /* Positioning */
+    left: 9em;
+    top: 5em;
+    width: 500px;
+    /*Shaping*/
+    border-radius: 10%;
+}
+
+#thumbnail-6 {
+        /* Positioning */
+        left: 50em;
+        top: 5em;
+        width: 500px;
+        /*Shaping*/
+        border-radius: 10%;
+}
+
 .d-title {
     font-family: mighty-slab, serif;
     font-size: 85px;
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -190px;
-    margin-left: 680px;
+    margin-top: -170px;
+    margin-left: 710px;
 }
 
 .d-title3,
@@ -151,8 +169,8 @@ a:hover {
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -190px;
-    margin-left: 680px;
+    margin-top: -170px;
+    margin-left: 710px;
 }
 
 .d-title2 {
@@ -161,7 +179,7 @@ a:hover {
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -190px;
+    margin-top: -160px;
     margin-left: 250px;
 }
 
@@ -171,8 +189,19 @@ a:hover {
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -175px;
+    margin-top: -145px;
     margin-left: 290px;
+}
+
+.d-title6 {
+    font-family: mighty-slab, serif;
+    font-size: 85px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: right;
+    color: #8B2729;
+    margin-top: -186px;
+    margin-left: 95px;
 }
 
 p {
@@ -181,7 +210,7 @@ p {
     font-style: normal;
     color: #8B2729;
     margin-top: 15px;
-    margin-left: 680px;
+    margin-left: 710px;
     width: 600px;
 }
 
@@ -191,7 +220,7 @@ p {
     font-style: normal;
     color: #8B2729;
     margin-top: 15px;
-    margin-left: 680px;
+    margin-left: 710px;
 }
 
 .para2 {
@@ -216,13 +245,24 @@ p {
     width: 640px;
 }
 
-.para {
+.para5 {
     font-family: aktiv-grotesk-extended, sans-serif;
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
     margin-top: 15px;
-    margin-left: 680px;
+    margin-left: 710px;
+}
+
+.para6 {
+    font-family: aktiv-grotesk-extended, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #8B2729;
+    margin-top: 5px;
+    margin-left: 80px;
+    text-align: right;
+    width: 640px;
 }
 
 main {
