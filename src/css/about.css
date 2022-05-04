@@ -29,7 +29,7 @@ h3 {
 .about-me {
     font-size: 22px;
     width: 600px;
-    margin-top: -25em;
+    margin-top: -26em;
     margin-left: 29em;
 }
 
@@ -48,7 +48,7 @@ img {
 }
 
 .about-foot {
-    margin-top: 50px;
+    margin-top: -115px;
 }
 
 .hello {
@@ -61,4 +61,19 @@ img {
 .page-title {
     font-family: lust;
     font-size: 75px;
+}
+
+.contact {
+    z-index: 1;
+    color: #8B2729;
+    font-family: mighty-slab, serif;
+    font-style: normal;
+    font-size: 40px;
+    margin-top: 25px;
+}
+
+
+.contact-icons {
+    margin-left: 710px;
+    margin-top: 10px;
 }

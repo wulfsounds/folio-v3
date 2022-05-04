@@ -40,6 +40,10 @@ const AboutPage = (props) => {
 								applications that standout from the rest.
 							</p>
 						</div>
+						<div className="contact-icons">
+							<a className="contact" href="https://www.linkedin.com/in/devwulf/">LinkedIn</a>
+							<a className="contact" href="https://www.github.com/wulfsounds">GitHub</a>
+						</div>
 					</div>
 				</main>
 				<footer className="about-foot home-footer">

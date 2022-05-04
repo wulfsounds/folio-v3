@@ -165,7 +165,7 @@ a {
 
 a:hover {
     color: #8B2729;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 #thumbnail-1 {
@@ -403,5 +403,5 @@ footer {
 }
 
 span {
-    margin-left: -20px;
+    margin-left: -5px;
 }
