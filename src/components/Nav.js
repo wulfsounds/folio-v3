@@ -14,6 +14,11 @@ function Navbar() {
 						folio
 					</a>
 				</li>
+				<li className="nav-item">
+					<a className="nav-link a" href="/contact">
+						contact
+					</a>
+				</li>
 				<li className="nav-item a">
 					<a
 						className="nav-link"
