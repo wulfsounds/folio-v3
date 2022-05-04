@@ -12,7 +12,6 @@ function Contact() {
 			<Header />
 			<Nav />
 				<Form />
-			<Footer />
 		</>
 	);
 }

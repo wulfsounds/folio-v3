@@ -41,7 +41,8 @@ li {
 
 .folio-title {
     margin-left: 620px;
-    font-family: lust;
+    font-family: mighty-slab, serif;
+    font-weight: normal;
     font-size: 75px;
 
 }
@@ -70,7 +71,7 @@ li {
     display: flex;
     flex-direction: row;
     align-content: center;
-    margin-right: -25px;
+    margin-right: 0px;
     margin-left: 480px;
     margin-top: 20px;
 }
@@ -79,7 +80,7 @@ li {
     display: flex;
     flex-direction: row;
     align-content: center;
-    margin-right: -25px;
+    margin-right: 0px;
     margin-left: 540px;
     margin-top: 20px;
 }
@@ -342,6 +343,8 @@ p {
 main {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-content: center;
 }
 
 #splash-text {
@@ -396,12 +399,41 @@ img {
 
 footer {
     display: flex;
-    margin: 140px 0 10px 0;
+    margin: 65px 0 10px 0;
     justify-content: center;
     align-items: center;
     color: #000
 }
+.home-foot {
+    margin: 65px 0 10px 0;
+}
+
+.folio-foot {
+    margin: 50px 0 25px 0;
+}
 
 span {
     margin-left: -5px;
+}
+
+/* Contact Page Form */
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 320px;
+}
+
+textarea {
+    width: 320px;
+    height: 300px;
+}
+
+.contact-foot {
+    margin: 290px 0 10px 0;
 }

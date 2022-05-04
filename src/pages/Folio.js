@@ -13,7 +13,6 @@ const FolioPage = (props) => {
 		<Header />
 		<Nav />
 		<Project />
-		<Footer />
     </>
   )
 }
