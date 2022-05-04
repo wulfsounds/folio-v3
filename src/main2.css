@@ -39,6 +39,13 @@ li {
     margin: -400px 0 0 521px;
 }
 
+.folio-title {
+    margin-left: 620px;
+    font-family: lust;
+    font-size: 75px;
+
+}
+
 #title-main,
 #title-second,
 #title-third,
@@ -49,6 +56,69 @@ li {
     font-family: mighty-slab, serif;
     font-style: normal;
     font-size: 45px;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.icon-box,
+.icon-box3 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin-right: -25px;
+    margin-left: 480px;
+    margin-top: 20px;
+}
+
+.icon-box5 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin-right: -25px;
+    margin-left: 540px;
+    margin-top: 20px;
+}
+
+.icon-box2,
+.icon-box4,
+.icon-box6 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    /* margin-right: 25px; */
+    margin-left: 815px;
+    margin-top: 20px;
+}
+
+.heroku {
+    margin-bottom: -40px;
+    width: 64px;
+    height: 64px;
+}
+
+.icon {
+    width: 120px;
+    /* height: 100px; */
+    padding: 0;
+}
+
+.icon5 {
+    width: 120px;
+    /* height: 100px; */
+    padding: 0;
+}
+
+.heroku {
+    width: 64px;
+}
+
+.github {
+    width: 120px;
 }
 
 #title-main {
@@ -90,7 +160,7 @@ a {
     color: #F2EBDF;
     text-decoration: none;
     list-style-type:none;
-    padding-left: 25px;
+    margin-left: 10px;
 }
 
 a:hover {
@@ -105,6 +175,10 @@ a:hover {
     width: 500px;
     /*Shaping*/
     border-radius: 10%;
+}
+
+.detail {
+    margin-top: -170px;
 }
 
 #thumbnail-3 {
@@ -158,7 +232,7 @@ a:hover {
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -170px;
+    margin-top: -75px;
     margin-left: 710px;
 }
 
@@ -169,7 +243,7 @@ a:hover {
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -170px;
+    margin-top: -250px;
     margin-left: 710px;
 }
 
@@ -179,7 +253,7 @@ a:hover {
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -160px;
+    margin-top: -250px;
     margin-left: 250px;
 }
 
@@ -189,7 +263,7 @@ a:hover {
     font-weight: 400;
     font-style: normal;
     color: #8B2729;
-    margin-top: -145px;
+    margin-top: -230px;
     margin-left: 290px;
 }
 
@@ -200,7 +274,7 @@ a:hover {
     font-style: normal;
     text-align: right;
     color: #8B2729;
-    margin-top: -186px;
+    margin-top: -275px;
     margin-left: 95px;
 }
 

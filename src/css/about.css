@@ -23,13 +23,13 @@ h3 {
 }
 
 .jate-header{
-    margin-top: -175px;
+    margin-top: -260px;
 }
 
 .about-me {
     font-size: 22px;
     width: 600px;
-    margin-top: -22.5em;
+    margin-top: -25em;
     margin-left: 29em;
 }
 
@@ -43,10 +43,22 @@ img {
 }
 
 .about-box {
-    margin-top: 130px;
+    margin-top: 25px;
     margin-bottom: 230px;
 }
 
 .about-foot {
-    margin-top: 30px;
+    margin-top: 50px;
+}
+
+.hello {
+    font-family: mighty-slab, serif;
+    font-style: normal;
+    margin-left: .75em;
+    margin-top: -.45em;
+}
+
+.page-title {
+    font-family: lust;
+    font-size: 75px;
 }

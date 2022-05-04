@@ -12,6 +12,7 @@ const AboutPage = (props) => {
 				<Header />
 				<Nav />
 				<main>
+					<h1 className='page-title'>about</h1>
 					<div className="container about-box">
 						<img
 							className="profile-pic"
