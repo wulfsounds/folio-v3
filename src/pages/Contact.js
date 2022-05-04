@@ -1,20 +1,20 @@
-import Header from "../components/Header"
-import Nav from "../components/Nav"
-import Footer from "../components/Footer"
-import Form from "../components/Form"
+import Header from "../components/Header";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
+import Form from "../components/Form";
+import { useState, useEffect } from "react";
 
-import { useState, useEffect } from "react"
+function Contact() {
+	useEffect(() => {}, []);
 
-const FolioPage = (props) => {
-
-  return (
-    <>
-      <Header />
-      <Nav />
-      <Form />
-      <Footer />
-    </>
-  )
+	return (
+		<>
+			<Header />
+			<Nav />
+				<Form />
+			<Footer />
+		</>
+	);
 }
 
-export default FolioPage
+export default Contact;
