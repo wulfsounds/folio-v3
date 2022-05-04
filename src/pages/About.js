@@ -10,7 +10,7 @@ const AboutPage = (props) => {
 	return (
 		<>
 			<Header />
-			<Nav />
+			{/* <Nav /> */}
 			<main>
 				<h1 className="page-title">about</h1>
 				<div className="container about-box">

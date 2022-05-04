@@ -437,3 +437,37 @@ textarea {
 .contact-foot {
     margin: 290px 0 10px 0;
 }
+
+@media screen and (max-width: 1200px) {
+    .nav{
+        padding: 5px;
+        margin-right: -200px;
+    }
+
+    .home-foot {
+        margin: 65px -190px 10px 0px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .nav{
+        padding: 5px;
+        margin-right: -415px;
+    }
+
+    .home-foot {
+        margin: 65px -415px 10px 0px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .nav{
+        padding: 5px;
+        margin-right: -495px;
+    }
+
+    .home-foot {
+        margin: 65px -520px 10px 0px;
+    }
+}
+@media screen and (max-width: 576px) {
+
+}
