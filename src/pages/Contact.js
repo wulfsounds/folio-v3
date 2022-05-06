@@ -10,7 +10,7 @@ function Contact() {
 	return (
 		<>
 			<Header />
-			<Nav />
+			{/* <Nav /> */}
 				<Form />
 		</>
 	);

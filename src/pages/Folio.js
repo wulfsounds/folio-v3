@@ -11,7 +11,7 @@ const FolioPage = (props) => {
   return (
     <>
 		<Header />
-		<Nav />
+		{/* <Nav /> */}
 		<Project />
     </>
   )

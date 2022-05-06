@@ -11,7 +11,7 @@ const HomePage = (props) => {
 	return (
 		<>
 			<Header />
-			<Nav />
+			{/* <Nav /> */}
 			<main>
 				<section className="container col-12">
 					<div>
